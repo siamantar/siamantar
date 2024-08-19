@@ -1,4 +1,5 @@
-
+`make siamantar; siamantar --intro`
+```
  ,_,
 (.,.)
 (   )
