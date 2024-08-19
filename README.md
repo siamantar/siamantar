@@ -18,20 +18,19 @@ LEARN
    <a href="https://twitter.com/SiamShibly"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
    <a href="https://www.linkedin.com/in/siam-shibly-antar-074112158/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
    <a href="https://scholar.google.com/citations?user=kchEO0sAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+   <a href="siamantar1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL"></a>
+ 
 </p>
 
 `> siamantar about`
+
+
 🤔𝙒𝙝𝙖𝙩 𝙞𝙨 siamantar 𝙖𝙗𝙤𝙪𝙩❓
 
 👋 Hi, I'm Siam Shibly Antar, a passionate computing master's student at Queen's University with a strong foundation in machine learning, deep learning, and software engineering. With over 3 years of experience in Python, C++, and various AI technologies, I strive to push the boundaries of what's possible in AI-driven solutions. My work spans from academic research to practical projects, where I apply my knowledge to solve real-world problems.
 
 🌱 Outside of my academic and professional pursuits, I enjoy exploring the latest trends in AI, contributing to open-source projects, and staying active in the tech community. When I'm not coding, you'll likely find me diving into a good book or experimenting with new technologies.
 
-**CONTACT**
-- Email: siamantar1@gmail.com
-- GitHub: siamantar
-- Full name: Siam Shibly Antar
-- Phone: +1 43768 56938
 
 💪**SKILLS**💻
 - C: 5+ years
