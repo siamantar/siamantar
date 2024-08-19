@@ -65,7 +65,7 @@ Project Management, Continuous Integration/Continuous Development integration, T
 Reading, philosophy, projects on new platforms, projects in new languages, game development, video games, Lacrosse referee, snowboarding, and hiking.
 
 `> srepollock stats`  
-![srepollock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srepollock&show_icons=true&theme=cobalt)
+![srepollock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siamantar&show_icons=true&theme=cobalt)
 
 `> check-out-blog --recent`
 <!-- blog starts -->
