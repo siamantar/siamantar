@@ -14,9 +14,9 @@ LEARN
  
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=&message=Personal-Website&color=brightgreen&link=https://spollock.ca" /img>
-	<a href="https://github.com/srepollock"><img src="https://img.shields.io/github/followers/srepollock.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/srepollock"><img src="https://img.shields.io/twitter/follow/srepollock?label=Twitter&style=social" alt="Twitter"></a>
-  <a href="https://medium.com/@srepollock"><img src="https://img.shields.io/badge/Medium--_.svg?label=Medium&style=social" alt="Medium" /></a>
+	<a href="https://github.com/siamantar"><img src="https://img.shields.io/github/followers/srepollock.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/SiamShibly"><img src="https://img.shields.io/twitter/follow/srepollock?label=Twitter&style=social" alt="Twitter"></a>
+  <a href="https://scholar.google.com/citations?user=kchEO0sAAAAJ&hl=en"><img src="https://img.shields.io/badge/Medium--_.svg?label=Medium&style=social" alt="Medium" /></a>
 	<a href="https://www.linkedin.com/in/siam-shibly-antar-074112158/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://github.com/sponsors/srepollock"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
 </p>
