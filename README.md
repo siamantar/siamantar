@@ -22,6 +22,7 @@ LEARN
 
 `> siamantar about`
 🤔𝙒𝙝𝙖𝙩 𝙞𝙨 siamantar 𝙖𝙗𝙤𝙪𝙩❓
+
 👋 Hi, I'm Siam Shibly Antar, a passionate computing master's student at Queen's University with a strong foundation in machine learning, deep learning, and software engineering. With over 3 years of experience in Python, C++, and various AI technologies, I strive to push the boundaries of what's possible in AI-driven solutions. My work spans from academic research to practical projects, where I apply my knowledge to solve real-world problems.
 
 🌱 Outside of my academic and professional pursuits, I enjoy exploring the latest trends in AI, contributing to open-source projects, and staying active in the tech community. When I'm not coding, you'll likely find me diving into a good book or experimenting with new technologies.
