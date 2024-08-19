@@ -13,7 +13,7 @@ LEARN
  `> srepollock social`
  
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=Personal-Website&color=brightgreen&link=https://spollock.ca" /img>
+	<a href="https://orcid.org/0000-0002-1617-3999"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
 	<a href="https://github.com/siamantar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 	<a href="https://twitter.com/SiamShibly"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/siam-shibly-antar-074112158/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
